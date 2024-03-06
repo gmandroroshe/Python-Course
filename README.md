@@ -4,6 +4,7 @@ This is for Python users
 
 Python is not a word in Arabic. I first started learning Python properly when I was 19 years old.
 Why did it take me so long to learn Python? Because I had years of experience, I didn’t have a big idea of ​​how to learn Python. But now I know that I am learning Python the right way. I learn by using Youtube, there are many videos about Python on YouTube, but I say if you are a beginner to Python, you should watch a Python tutorial that you can understand well. With my experience, if you want to learn Python from scratch, I recommend you this YouTube channel, that channel is freeCodeCamp.org – https://www.youtube.com/@freecodecamp
+I will tell you another language where I learned Python, that is the Hexcoder channel. see - https://www.youtube.com/playlist?list=PLn5T02q8Os_vPbNjB9kzoYedjFgfWGxZk
 
 Ok now let’s talk Features of Python
 
